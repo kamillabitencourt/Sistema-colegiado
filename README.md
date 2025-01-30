@@ -49,10 +49,4 @@ O projeto é composto pelas seguintes classes:
    java Main
    ```
 
-## Autores
-- [Seu Nome]
-- Outros colaboradores
-
-## Licença
-Este projeto é de uso educacional e não possui uma licença específica.
 
